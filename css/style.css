@@ -469,3 +469,16 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+h1.display-3 {
+    font-size: 2.5rem; /* Example customization */
+    color: white; /* Example customization */
+}
+
+.col-12 {
+    background-color: rgba(255, 255, 255, 0.8); /* Light semi-transparent background */
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Soft shadow for elevation */
+  }
+  
